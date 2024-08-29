@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RobJ18
+- 👀 I’m interested in Virtulization 
+- 🌱 I’m currently learning Python and Powershell
+- 💞️ I’m looking to collaborate on my personal projects
